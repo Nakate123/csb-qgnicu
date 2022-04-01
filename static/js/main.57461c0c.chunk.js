@@ -1,0 +1,2 @@
+(this["webpackJsonprender-react-component"]=this["webpackJsonprender-react-component"]||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(0);var r=n(3),c=n.n(r),i=n(1);c.a.render(Object(i.jsx)("div",{children:Object(i.jsx)("p",{children:'"I am learning React. My life is getting better. "'})}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.57461c0c.chunk.js.map
